@@ -1,2 +1,1 @@
-# alquran
-Al Quran Digital
+<a href="/">Al Qur'an Digital</a> adalah Aplikasi Al Quran sederhana yang dapat digunakan dan diakses di berbagai device baik di Laptop maupun di smartphone and. Untuk menggunakan aplikasi ini ada harus memiliki koneksi internet yang memadai. Adapun cara penggunaan aplikasi ini adalah dengan memilih surat yang akan dibaca atau gunakan fitur pencarian. Adapun Menu yang tersedia adalah index, bookmark(tahap pengembangan), login(tahap pengembangan). Al Quran ini dikembangkan oleh Teguh Wiryanto, Firman, dan Arif dalam rangka menyelesaikan Final Projek dalam Program CS50 For Teacher dari Harvard University.
